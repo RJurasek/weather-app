@@ -1,0 +1,42 @@
+* {
+    color: white;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(0, 119, 255);
+}
+
+header {
+    background-color: blue;
+    height: 50px;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    padding: 5px;
+}
+
+.search-bar {
+    text-align: center;
+    margin: 25px;
+}
+
+.search-bar input,button {
+    color: black;
+}
+
+.current-weather {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.forecast {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.forecast div {
+    display: inline;
+}
